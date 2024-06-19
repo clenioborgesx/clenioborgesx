@@ -3,9 +3,9 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Engenharia de Software no IFPE.
-- 💼 Trabalhando como Desenvolvedor Full Stack na Etherion.
-- 🌱 Aprendendo mais sobre Engenharia de Dados.
+- 🎓 Estudando Engenharia de Software na Faculdade Descomplica Uniamérica.
+- 💼 Buscando a primeira oportunidade para estagiar.
+- 🌱 Cada dia melhorando 1% no mínimo.
 
 ## Minhas Skills
 
