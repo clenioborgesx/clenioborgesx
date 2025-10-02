@@ -1,11 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=clenioborgesx&color=006bed)
 
-## Sobre mim
+## Sobre Mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Engenharia de Software na Faculdade Descomplica Uniamérica.
-- 💼 Buscando a primeira oportunidade para estagiar.
-- 🌱 Cada dia melhorando 1% no mínimo.
+- 🤔 Atualmente, explorando novas tecnologias enquanto crio e desenvolvo **soluções de software** com foco em **Qualidade (QA)**.
+- 🎯 **QA e Teste de Software:** Meu objetivo é garantir a **qualidade do seu sistema** de forma proativa. Sou um testador criterioso, especializado em encontrar problemas antes do usuário final, combinando excelência em **testes manuais** e proficiência em **automação** quando necessário.
+- 💡 **Pensando como o Usuário:** Minha paciência e habilidade de antecipar ações inesperadas me permitem "caçar" *bugs* de forma eficaz. Não os procuro; eles me encontram.
+- 🤝 **Comunicação Estratégica:** Especialista em ser a **ponte de comunicação**. Converso com qualquer pessoa e traduzo a necessidade do usuário para a equipe de desenvolvimento com total clareza.
+- 📈 **Desenvolvimento Contínuo:** Um QA que busca aprimoramento constante em desenvolvimento para otimizar a comunicação com a equipe, entender a fundo o código e o negócio, e direcionar soluções mais eficientes. Minha meta é melhorar **1% no mínimo a cada dia**.
+- 🎓 Estudante de **Engenharia de Software** na Faculdade Descomplica Uniamérica.
 
 ## Minhas Skills
 
@@ -41,6 +43,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-ClenioBorges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cl%C3%AAnio-borges-867737109/)](https://www.linkedin.com/in/cl%C3%AAnio-borges-867737109/)
-[![Gmail Badge](https://img.shields.io/badge/-cbbf@discente.ifpe.edu.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cbbf@discente.ifpe.edu.br)](mailto:cbbf@discente.ifpe.edu.br)
+[![Linkedin](https://img.shields.io/badge/-ClenioBorges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clenioborgesx/)](https://www.linkedin.com/in/clenioborgesx/)
+[![Gmail Badge](https://img.shields.io/badge/-clenioborgesx@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cbbf@discente.ifpe.edu.br)](mailto:clenioborgesx@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/clenioborgesx?label=follow&style=social)](https://github.com/clenioborgesx)
