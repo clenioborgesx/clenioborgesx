@@ -1,48 +1,33 @@
-![](https://komarev.com/ghpvc/?username=clenioborgesx&color=006bed)
+# Olá! Eu sou Clênio Borges 👋
 
-## Sobre Mim
+[cite_start]Sou **Analista de Negócios** e **Qualidade de Software (QA)**, apaixonado por transformar desafios de negócio complexos em especificações claras e soluções tecnológicas que geram valor[cite: 30].
 
-- 🤔 Atualmente, explorando novas tecnologias enquanto crio e desenvolvo **soluções de software** com foco em **Qualidade (QA)**.
-- 🎯 **QA e Teste de Software:** Meu objetivo é garantir a **qualidade do seu sistema** de forma proativa. Sou um testador criterioso, especializado em encontrar problemas antes do usuário final, combinando excelência em **testes manuais** e proficiência em **automação** quando necessário.
-- 💡 **Pensando como o Usuário:** Minha paciência e habilidade de antecipar ações inesperadas me permitem "caçar" *bugs* de forma eficaz. Não os procuro; eles me encontram.
-- 🤝 **Comunicação Estratégica:** Especialista em ser a **ponte de comunicação**. Converso com qualquer pessoa e traduzo a necessidade do usuário para a equipe de desenvolvimento com total clareza.
-- 📈 **Desenvolvimento Contínuo:** Um QA que busca aprimoramento constante em desenvolvimento para otimizar a comunicação com a equipe, entender a fundo o código e o negócio, e direcionar soluções mais eficientes. Minha meta é melhorar **1% no mínimo a cada dia**.
-- 🎓 Estudante de **Engenharia de Software** na Faculdade Descomplica Uniamérica.
+[cite_start]Minha sólida base em **Engenharia de Software** me permite conectar de forma eficaz as necessidades estratégicas do negócio às soluções tecnológicas[cite: 26]. [cite_start]Minha trajetória me proporcionou uma visão abrangente do ciclo de vida de desenvolvimento de sistemas, reforçando minha capacidade de atuar como **ponte entre as áreas técnica e de negócios**[cite: 27].
 
-## Minhas Skills
+## Minhas Especialidades 🎯
 
-**Aplicações e dados**
+| Área de Foco | Habilidades-Chave | Minha Proposta de Valor |
+| :--- | :--- | :--- |
+| **Qualidade de Software (QA)** | [cite_start]Execução de Testes Abrangentes [cite: 51][cite_start], Monitoramento de KPIs [cite: 46][cite_start], Garantia de Qualidade [cite: 9] | [cite_start]Garanto a qualidade e a conformidade das entregas, com foco em otimização de processos e entrega de valor[cite: 37]. |
+| **Análise de Negócios (BA)** | [cite_start]Levantamento Detalhado de Requisitos [cite: 28, 50][cite_start], Otimização de Processos [cite: 11][cite_start], Análise de Dados [cite: 29] | [cite_start]Traduzo necessidades de negócio em especificações técnicas claras, buscando sempre a eficiência e a inovação[cite: 30, 50]. |
+| **Infraestrutura & Suporte** | [cite_start]Instalação/Configuração de Redes (Mikrotik, TP-LINK) [cite: 75, 91][cite_start], Manutenção de Terminais [cite: 76, 92][cite_start], Suporte Técnico (GLPI) [cite: 53] | [cite_start]Visão completa do ciclo de vida de desenvolvimento, desde a infraestrutura de TI até a entrega final[cite: 27]. |
 
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+## Tecnologias e Ferramentas 🛠️
 
-**Utilidades**
+* [cite_start]**Linguagens & Bancos:** Python [cite: 17, 21, 69][cite_start], C/C++ [cite: 69][cite_start], Javascript [cite: 69][cite_start], SQL [cite: 23, 29]
+* [cite_start]**Banco de Dados:** PostgreSQL [cite: 69][cite_start], MongoDB [cite: 69]
+* [cite_start]**Frameworks/Ferramentas:** Django [cite: 69][cite_start], FastAPI [cite: 69][cite_start], Ladder [cite: 69][cite_start], PowerBI [cite: 69]
+* [cite_start]**Metodologias & Gestão:** Metodologia Ágil [cite: 68][cite_start], Kanban [cite: 68][cite_start], JIRA [cite: 68][cite_start], Trello [cite: 68][cite_start], Asana [cite: 68]
 
+## Formação em Destaque 🎓
 
+* **Bacharelado em Engenharia de Software** | [cite_start]Descomplica Faculdade Digital (maio de 2024 – agosto de 2028) [cite: 119, 120]
+* **Técnico em Eletroeletrônica** | [cite_start]IFPE (2010 – 2015) [cite: 123, 124]
 
-**DevOps**
+## Conecte-se Comigo 📫
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+[cite_start]Sou um profissional proativo, movido por desafios e pelo aprendizado contínuo[cite: 31]. [cite_start]Busco contribuir ativamente com minha visão analítica e técnica para impulsionar o sucesso dos projetos[cite: 32].
 
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-
-<br/>
-
-<a href="https://github.com/clenioborgesx" title="Perfil do Clênio Borges">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clenioborgesx&theme=dracula&show_icons=true" />
-</a>
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-ClenioBorges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clenioborgesx/)](https://www.linkedin.com/in/clenioborgesx/)
-[![Gmail Badge](https://img.shields.io/badge/-clenioborgesx@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cbbf@discente.ifpe.edu.br)](mailto:clenioborgesx@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/clenioborgesx?label=follow&style=social)](https://github.com/clenioborgesx)
+* [cite_start]**LinkedIn:** www.linkedin.com/in/clenioborgesx [cite: 4]
+* [cite_start]**GitHub:** github.com/clenioborgesx [cite: 6]
+* [cite_start]**Email:** clenioborgesx@gmail.com [cite: 3]
