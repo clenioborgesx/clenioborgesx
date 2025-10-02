@@ -14,8 +14,8 @@ Minha sólida base em **Engenharia de Software** me permite conectar de forma ef
 
 ## Tecnologias e Ferramentas 🛠️
 
-* **Linguagens & Bancos:** Python, C/C++, Javascript, SQL
-* **Banco de Dados:** PostgreSQL, MongoDB
+* **Linguagens & Bancos:** Python, C/C++, Javascript, Java, SQL
+* **Banco de Dados:** PostgreSQL, MongoDB, DBeaver, Oracle
 * **Frameworks/Ferramentas:** Django, FastAPI, Ladder, PowerBI
 * **Metodologias & Gestão:** Metodologia Ágil, Kanban, JIRA, Trello, Asana
 
