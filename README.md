@@ -28,6 +28,6 @@ Minha sólida base em **Engenharia de Software** me permite conectar de forma ef
 
 Sou um profissional proativo, movido por desafios e pelo aprendizado contínuo. Busco contribuir ativamente com minha visão analítica e técnica para impulsionar o sucesso dos projetos.
 
-* **LinkedIn:** www.linkedin.com/in/clenioborgesx
-* **GitHub:** github.com/clenioborgesx
+* **LinkedIn:** https://www.linkedin.com/in/clenioborgesx
+* **GitHub:** https://www.github.com/clenioborgesx
 * **Email:** clenioborgesx@gmail.com
