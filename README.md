@@ -1,23 +1,27 @@
 # Olá! Eu sou Clênio Borges 👋
 
-Sou **Analista de Negócios** e **Qualidade de Software (QA)**, apaixonado por transformar desafios de negócio complexos em especificações claras e soluções tecnológicas que geram valor.
+Sou **Engenheiro de Qualidade de Software (QA Automation)** com sólida base em Engenharia de Software. Sou apaixonado por estruturar processos do zero, construir frameworks de automação escaláveis e garantir que soluções tecnológicas entreguem o máximo de valor e estabilidade.
 
-Minha sólida base em **Engenharia de Software** me permite conectar de forma eficaz as necessidades estratégicas do negócio às soluções tecnológicas. Minha trajetória me proporcionou uma visão abrangente do ciclo de vida de desenvolvimento de sistemas, reforçando minha capacidade de atuar como **ponte entre as áreas técnica e de negócios**.
+Minha trajetória me proporcionou uma visão única: combino a capacidade analítica de negócios (BA) com forte expertise técnica em automação E2E. Isso me permite atuar como a **ponte perfeita entre o produto (P.O.) e os desenvolvedores**, traduzindo regras de negócio complexas em testes automatizados precisos e arquiteturas resilientes.
 
 ## Minhas Especialidades 🎯
 
 | Área de Foco | Habilidades-Chave | Minha Proposta de Valor |
 | :--- | :--- | :--- |
-| **Qualidade de Software (QA)** | Execução de Testes Abrangentes, Monitoramento de KPIs, Garantia de Qualidade | Garanto a qualidade e a conformidade das entregas, com foco em otimização de processos e entrega de valor. |
-| **Análise de Negócios (BA)** | Levantamento Detalhado de Requisitos, Otimização de Processos, Análise de Dados | Traduzo necessidades de negócio em especificações técnicas claras, buscando sempre a eficiência e a inovação. |
-| **Infraestrutura & Suporte** | Instalação/Configuração de Redes (Mikrotik, TP-LINK), Manutenção de Terminais, Suporte Técnico (GLPI) | Visão completa do ciclo de vida de desenvolvimento, desde a infraestrutura de TI até a entrega final. |
+| **Automação de Testes (E2E & Híbrida)** | Java, Selenium WebDriver, Playwright, JUnit, RestAssured | Construção de frameworks escaláveis (Monorepo) que aceleram ciclos regressivos combinando UI, API e Banco de Dados. |
+| **Qualidade & BDD** | BDD (Cucumber/Gherkin), Testes Funcionais, Gestão de Bugs | Garanto que o software faz exatamente o que o negócio precisa, usando documentação viva e cenários claros. |
+| **Engenharia de Dados (QA)** | Oracle DB, PostgreSQL, Java Faker, Higienização | Automação e geração massiva de massas de dados válidas para testes, validando a integridade diretamente no banco. |
 
 ## Tecnologias e Ferramentas 🛠️
 
-* **Linguagens & Bancos:** Python, C/C++, Javascript, Java, SQL
-* **Banco de Dados:** PostgreSQL, MongoDB, DBeaver, Oracle
-* **Frameworks/Ferramentas:** Django, FastAPI, Ladder, PowerBI
-* **Metodologias & Gestão:** Metodologia Ágil, Kanban, JIRA, Trello, Asana
+* **Linguagens:** Java (21+), JavaScript/NodeJS, Python, SQL
+* **Testes & Automação:** Selenium WebDriver, Playwright, RestAssured, JUnit 5, Cucumber, Postman
+* **Banco de Dados:** Oracle (OJDBC), PostgreSQL, MongoDB, DBeaver
+* **Frameworks/Ferramentas:** Maven, Git, Jenkins, JIRA, Confluence
+* **Metodologias:** Cultura QA Ágil, Scrum, Kanban
+
+## 🚀 O que estou fazendo agora?
+Atualmente, estou **liderando e estruturando do zero** o setor de QA em projetos governamentais complexos. Construí uma arquitetura de testes híbrida em Java que manipula interfaces robustas, valida APIs e injeta/valida dados diretamente no banco Oracle, otimizando o tempo de entrega das squads.
 
 ## Formação em Destaque 🎓
 
@@ -26,7 +30,7 @@ Minha sólida base em **Engenharia de Software** me permite conectar de forma ef
 
 ## Conecte-se Comigo 📫
 
-Sou um profissional proativo, movido por desafios e pelo aprendizado contínuo. Busco contribuir ativamente com minha visão analítica e técnica para impulsionar o sucesso dos projetos.
+Sou um profissional proativo, movido por desafios e pela automação inteligente. Busco sempre construir a cultura de qualidade nas equipes por onde passo.
 
 * **LinkedIn:** https://www.linkedin.com/in/clenioborgesx
 * **GitHub:** https://www.github.com/clenioborgesx
